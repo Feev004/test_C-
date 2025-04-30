@@ -1,0 +1,15 @@
+C:\GitCode\test_C-\MyApp\bin\Debug\net9.0\MyApp.exe
+C:\GitCode\test_C-\MyApp\bin\Debug\net9.0\MyApp.deps.json
+C:\GitCode\test_C-\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+C:\GitCode\test_C-\MyApp\bin\Debug\net9.0\MyApp.dll
+C:\GitCode\test_C-\MyApp\bin\Debug\net9.0\MyApp.pdb
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.dll
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.pdb
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\GitCode\test_C-\MyApp\obj\Debug\net9.0\ref\MyApp.dll
