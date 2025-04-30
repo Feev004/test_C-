@@ -20,14 +20,14 @@ namespace MyApplication
             // string name = $"My full name is: {firstName} {lastName}";
             // Console.WriteLine(name); //My full name is: John  Doe
 
-            // // Full name
-            // string name = "John Doe";
-            // // Location of the letter D
-            // int charPos = name.IndexOf("D");
-            // // Get last name
-            // string lastName = name.Substring(charPos);
-            // // Print the result
-            // Console.WriteLine(lastName); //Doe
+            // Full name
+            string name = "John Doe";
+            // Location of the letter D
+            int charPos = name.IndexOf("D");
+            // Get last name
+            string lastName = name.Substring(charPos);
+            // Print the result
+            Console.WriteLine(lastName); //Doe
         }
     }
 }
