@@ -1,0 +1,21 @@
+@page
+@model CalModel
+
+<h3>เครื่องคิดเลข</h3>
+
+<form method="post">
+    <input type="number" name="Num1" value="@Model.Num1" />
+    <input type="number" name="Num2" value="@Model.Num2" />
+    <select name="Operation">
+        <option value="+" selected>+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="/">/</option>
+    </select>
+    <button type="submit">คำนวณ</button>
+</form>
+
+@if (Model.HasResult)
+{
+    <p>ผลลัพธ์: @Model.Result</p>
+}
