@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("my_pg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53bddcc35219f860cde747b8e62559f99fee2c86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9897f331b27b24be95cc3a0d649b6d43abb4447")]
 [assembly: System.Reflection.AssemblyProductAttribute("my_pg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("my_pg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
